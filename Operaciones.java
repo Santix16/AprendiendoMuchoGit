@@ -10,6 +10,6 @@ public class Operaciones {
         int suma=ops.sumar(10,5);
         System.out.println("El resultado de la suma es "+suma);
         int resta=ops.restar(10,5);
-        System.out.println("El resultado de la resta es "+resta);
+        System.out.println("El resultado de la resta es: "+ resta);
     }
 }
